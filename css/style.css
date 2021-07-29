@@ -1,0 +1,59 @@
+h1 {
+text-align : center;
+
+}}
+
+.footer
+{
+	min-height: 50px;
+	text-align : center;
+	padding : 10px;
+}
+
+.container{
+	display:table;
+	width:900px;
+	border-collapse:collapse;
+	margin-top: 2.5em;
+	line-height:25px;
+}
+
+p {
+
+    text-align : center;
+    font-family : Times New Roman;
+    font-size : 14pt;
+}
+
+body {
+    background-color : yellow;
+}
+
+.main {
+
+    text-align : center;
+}
+
+.container2{
+	display:table;
+	width:600px;
+	border-collapse:collapse;
+	margin-top: 2.5em;
+	line-height:25px;
+}
+
+.table-row{  
+	display:table-row;
+	text-align:left;
+	font-family : "Times New Roman";
+	font-size : 12pt;
+}
+
+.col{ 
+	display:table-cell;
+	border:1px;
+}
+
+.col1{
+	display:table-cell;
+}
